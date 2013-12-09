@@ -267,7 +267,7 @@ int main(int argc, char* argv[])
 
    // set window title
    char wtitle[50];
-   strcpy(wtitle,"Liberal Crime Squad ");
+   strcpy(wtitle,"Lunar Crime Squad ");
    strcat(wtitle,PACKAGE_VERSION);
    set_title (wtitle);
 

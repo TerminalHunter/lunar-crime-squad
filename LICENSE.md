@@ -1,4 +1,7 @@
-   Copyright (C) 2013  TerminalHunter
+Liberal Crime Squad
+Copyright (c) 2002,2003,2004 by Tarn Adams
+Lunar Crime Squad
+Copyright (C) 2013  TerminalHunter
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
